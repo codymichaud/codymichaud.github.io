@@ -1,3 +1,49 @@
+.topName{
+    text-align: center;
+}
+
+.welcome{
+text-align: center;
+margin-top: 10px;
+}
+
+.aboutMe{
+border: solid 5px whitesmoke;
+}
+
+.whyapply{
+border: solid 5px whitesmoke;
+}
+
+.pastWork{
+border: solid 5px whitesmoke;
+}
+
+.listedWork{
+
+}
 .certs{
-    border: solid 5px whitesmoke;
+border: solid 5px whitesmoke;
+}
+
+.listedCerts{
+
+}
+
+.activities{
+border: solid 5px whitesmoke;
+}
+
+.education{
+border: solid 5px whitesmoke;
+}
+
+
+
+
+
+
+
+.certs{
+    
 }
