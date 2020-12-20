@@ -10,13 +10,29 @@ body{
 .welcome{
 text-align: center;
 margin-top: 10px;
+display: inline-block;
+margin-right: 33%;
+margin-left: 43%;
 }
 
-#content{
+article{
 border: solid 5px whitesmoke;
 border-radius: 20px;
 }
 
+.resNav{
+    display: inline-block;
+    overflow: hidden;
+    margin-right: 16%;
+margin-left: 30%;
+}
+.resNav a{
+    float: right;
+    color: #d9dcd6;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
+}
 
 
 
