@@ -1,4 +1,8 @@
-
+body{
+    font-family: 'Ruda', sans-serif;
+    background-color: darkslategrey;
+    color: whitesmoke;
+}
 .topName{
     text-align: center;
 }
@@ -21,7 +25,7 @@ border: solid 5px whitesmoke;
 }
 
 .listedWork{
-
+ 
 }
 .certs{
 border: solid 5px whitesmoke;
